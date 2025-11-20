@@ -11,14 +11,12 @@
                         <li>The Doge server fetches the content from the target website.</li>
                         <li>The server then forwards that content back to your browser.</li>
 
-                    <p>Because all traffic is routed through the proxy, network filters only see a connection to the proxy itself, not the final destination. Unlike a full VPN, it only handles browser traffic within a specific tab or session.</p>
+                   Because all traffic is routed through the proxy, network filters only see a connection to the proxy itself, not the final destination. Unlike a full VPN, it only handles browser traffic within a specific tab or session.
                     
-                    <p>As an open-source project on GitHub, Doge Unblocker is described as a "site unblocker" powered by Ultraviolet, claiming to allow access to blocked sites without saving browsing history.</p>
+                    As an open-source project on GitHub, Doge Unblocker is described as a "site unblocker" powered by Ultraviolet, claiming to allow access to blocked sites without saving browsing history.
 
                     <h2>Key Features</h2>
                     <p>Typical features advertised for Doge Unblocker, especially V4/V5, include:</p>
-                    
-  
                             <h4>Tab Cloaking</h4>
                             <p>Alters the browser tab's title and icon to appear as an innocuous site (e.g., Google Classroom).</p>
                             <h4>URL Masking</h4>
@@ -116,6 +114,4 @@
                 
                         <li>Why do I need to keep finding new links?</li>
                         Network administrators actively block the domains of popular proxy links. The community constantly creates and shares new ones to stay ahead.
-                  
-          
-    
+   
